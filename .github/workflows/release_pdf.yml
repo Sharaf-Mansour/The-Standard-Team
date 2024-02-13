@@ -41,4 +41,4 @@ jobs:
                 uses: softprops/action-gh-release@v1
                 with:
                     files: The-Standard-Team.pdf 
-                    token: ${{ secrets.RELEASE_TOKEN }}       
+                    token: ${{ secrets.RELEASE_TOKEN }}        
